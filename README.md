@@ -1,0 +1,2 @@
+# edith
+First Git repository
